@@ -1,0 +1,12 @@
+table th, td, tr{
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+
+}
+table{
+    border-collapse: collapse;
+    vertical-align: bottom;
+    width: 100%;
+
+}

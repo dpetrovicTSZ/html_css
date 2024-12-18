@@ -1,0 +1,15 @@
+ol{
+    list-style-image: url("images/preuzmi.png");
+}
+ol{
+    background-color: green;
+}
+ul{
+    background-color: yellow;
+}
+ol{
+    background-color: gray;
+}
+ul{
+    background-color: gray;
+}
