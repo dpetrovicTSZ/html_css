@@ -1,0 +1,16 @@
+div{
+    color: red;
+}
+#div1{
+    clear: both;
+    border: 2px solid green;
+    width: 200px;
+    height: 200px;
+
+}
+#div2{
+    clear: both;
+    border: 2px solid orange;
+    width: 200px;
+    height: 200px;
+}

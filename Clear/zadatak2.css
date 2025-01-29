@@ -1,0 +1,38 @@
+#head{
+    border: 2px solid blue;
+    height: 100px;
+    width: 100%;
+    clear: both;
+    bottom: 250px;
+    background-color: dodgerblue;
+}
+#div1{
+    border: 2px solid blue;
+    background-color: dodgerblue;
+    height : 400px;
+    width: 48%;
+    float : left;
+}
+#div2 {
+    border: 2px solid blue;
+    background-color: dodgerblue;
+    height : 400px;
+    width: 48%;
+    float : right;
+}
+#div3{
+    border: 2px solid blue;
+    background-color: dodgerblue;
+    height: 100px;
+    width: 100%;
+    position: relative;
+    top: 450px;
+}
+#footer{
+    position : relative;
+    height: 400px;
+    width: 100%;
+    clear: both;
+    bottom: 40px;
+
+}
