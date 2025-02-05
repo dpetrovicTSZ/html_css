@@ -1,0 +1,7 @@
+p:first-child{
+    background-color: yellow;
+}
+p:nth-child(2){
+    font-family: Tahoma;
+}
+p:nth-child(3){}
