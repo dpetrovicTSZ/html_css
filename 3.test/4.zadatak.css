@@ -1,0 +1,13 @@
+p{
+    border: 1px solid black;
+}
+.prva{
+    outline: thick;
+    outline-style: double;
+    outline-color: red;
+}
+.druga{
+    outline:3px;
+    outline-style: double;
+    outline-color: green;
+}

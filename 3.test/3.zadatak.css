@@ -1,0 +1,6 @@
+.padding{
+    padding: 150px 260px 70px 80px;
+    background-color: yellow;
+    border: 1px solid red; /*dosl nez dal se misli na outile ili border
+    kad kaze obrub ali mis da je isto?*/
+}

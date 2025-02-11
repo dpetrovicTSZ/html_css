@@ -1,0 +1,22 @@
+.div1{
+    background-color: deeppink;
+    height: 200px;
+    width: 200px;
+}
+.div2{
+    background-color: cornflowerblue;
+    height: 200px;
+    width: 200px;
+    position: relative; /* u ovom slucaju je ovo parent
+                            parentov position NE SMIJE biti static*/
+    left: 200px
+}
+.child{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: darkblue;
+    top: 300px;
+    bottom: 300px;
+    left: 24px;
+}
