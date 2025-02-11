@@ -1,0 +1,18 @@
+table tr td{
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+}
+
+.veliki{
+    height: 300px;
+    width:400px;
+}
+.tanki{
+    height: 1px;
+    width: 400px;
+}
+.isprekidani{
+
+
+}
