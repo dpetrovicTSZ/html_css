@@ -1,0 +1,17 @@
+header{
+    width: 900px;
+}
+main{
+    width: 450px;
+    align-content: center;
+}
+aside{
+    position: relative;
+    left: 450px;
+    bottom: 300px;
+    align-content: center;
+}
+footer{
+    align-content: center;
+    width:900px;
+}
