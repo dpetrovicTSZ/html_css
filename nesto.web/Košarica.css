@@ -1,0 +1,9 @@
+div{
+    border:solid black 2px;
+}
+body{
+    background-color:lightyellow;
+    text-align: center;
+    font-size: large;
+    border: solid black 2px;
+}
