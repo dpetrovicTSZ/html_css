@@ -1,8 +1,28 @@
 body{
     font-family: "Times New Roman", Helvetica, sans-serif;
+    display: flex;
     justify-content: center;
+    align-items: center;
 
 }
 html{
     background-color: blanchedalmond;
+}
+
+input[type="text"]{
+    max-width: 150px;
+}
+select{
+    flex-direction: row;
+    max-width: 80px;
+
+}
+.podaci{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+form{
+    display: flex;
+    flex-direction: column;
 }
