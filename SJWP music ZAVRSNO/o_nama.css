@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+p {
+    text-align: center;
+    max-width: 2000px;
+}
+h1{
+    border: dashed black 3px;
+    padding: 5px 5pc 5px;
+}

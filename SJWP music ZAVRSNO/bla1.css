@@ -1,0 +1,48 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    background-color: blanchedalmond;
+    gap: 20px;
+    padding: 20px;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    border: dashed black 3px;
+}
+ol{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    padding: 60px;
+}
+p {
+    display: flex;
+    justify-content: flex-start;
+}
+.slika2{
+    height:350px;
+    width: 900px;
+    margin: 0 5px 20px 20px;
+}
+.slika3{
+    height: 350px;
+    width: 1000px;
+    margin: 0 5px 20px 20px;
+}
+.slika4{
+    height: 350px;
+    width: 1000px;
+    margin: 0 5px 20px 20px;
+}
+.slika5{
+    height: 350px;
+    width: 1000px;
+    margin: 0 5px 20px 20px;
+}
